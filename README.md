@@ -66,7 +66,6 @@ The project is structurally designed under a joint **DBFOM** model (Design, Buil
 │   ├── ppp_framework.md                       # Financial structuring, risk matrix, and DBFOM public-private partnership models
 │   ├── strategic_study.md                     # Geopolitical trade corridor analysis and projected cargo throughput milestones
 │   └── technical_specs.md                     # UIC standard track specs, GoA4 AI train automation, and historic engineering fixes
-
 └── src/                    # (Future) Logistics simulation and route optimization code
 ```
 
