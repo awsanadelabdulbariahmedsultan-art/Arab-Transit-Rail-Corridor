@@ -58,11 +58,15 @@ The project is structurally designed under a joint **DBFOM** model (Design, Buil
 ├── README.md               # Project definition, overview, and IP rights (This file)
 ├── LICENSE                 # Apache License 2.0 protecting software and IP rights
 ├── .gitignore              # Environment exclusion file optimized for Python
-├── docs/                   # Detailed feasibility studies and documentation
-│   ├── strategic_study.md  # Comprehensive trade corridor and economic analysis
-│   ├── ppp_framework.md    # Financial structuring and joint venture PPP models
-│   ├── mou_draft.md        # Quadripartite Memorandum of Understanding draft
-│   └── technical_specs.md  # AI, Satcom navigation, and predictive maintenance specs
+├── docs/                                       # Project Documentation & Strategic Feasibility Studies Directory
+│   ├── committee_agenda_roadmap.md            # High Technical Committee founding agenda & 12-month executive roadmap
+│   ├── dispute_and_capacity_building.md       # Fast-track international dispute resolution & 5-year national capacity plan
+│   ├── maintenance_and_economic_corridors.md  # Smart maintenance hubs allocation, economic freight streams & Vision 2040
+│   ├── mou_draft.md                           # Quadripartite Memorandum of Understanding (MoU) official legal draft
+│   ├── ppp_framework.md                       # Financial structuring, risk matrix, and DBFOM public-private partnership models
+│   ├── strategic_study.md                     # Geopolitical trade corridor analysis and projected cargo throughput milestones
+│   └── technical_specs.md                     # UIC standard track specs, GoA4 AI train automation, and historic engineering fixes
+
 └── src/                    # (Future) Logistics simulation and route optimization code
 ```
 
@@ -140,11 +144,14 @@ A strategic, engineering, and logistics framework designed to connect Yemeni por
 ├── README.md               # وثيقة التعريف والمقدمة وحقوق الملكية الفكرية
 ├── LICENSE                 # رخصة Apache 2.0 لحماية الملكية الفكرية والبرمجية
 ├── .gitignore              # ملف تجاهل البيئة البرمجية (Python)
-├── docs/                   # مستندات دراسة الجدوى والخطط التفصيلية
-│   ├── strategic_study.md  # الدراسة الاستراتيجية المتكاملة والممرات الاقتصادية
-│   ├── ppp_framework.md    # نموذج الشراكة المالي والاستثماري بالتفصيل
-│   ├── mou_draft.md        # مسودة مذكرة التفاهم الرباعية بين الدول
-│   └── technical_specs.md  # المواصفات الفنية وأنظمة الصيانة والذكاء الاصطناعي
+├── docs/                                       # مجلد الوثائق والدراسات الاستراتيجية والفنية للمشروع
+│   ├── committee_agenda_roadmap.md            # أجندة الاجتماع التأسيسي الأول وخارطة طريق اللجان العليا
+│   ├── dispute_and_capacity_building.md       # آليات فض النزاعات السريعة وخطة الخمس سنوات لتأهيل الكوادر اليمنية
+│   ├── maintenance_and_economic_corridors.md  # آلية توزيع مراكز الصيانة الذكية، الخطوط الاقتصادية، والخطط التوسعية 2040
+│   ├── mou_draft.md                           # مسودة مذكرة التفاهم الرباعية الرسمية بين الدول الأربع
+│   ├── ppp_framework.md                       # إطار العمل المالي ونموذج الاستثمار والشراكة بين القطاعين العام والخاص
+│   ├── strategic_study.md                     # الدراسة الاقتصادية واللوجستية الاستراتيجية للممرات وتدفق البضائع
+│   └── technical_specs.md                     # المواصفات الفنية الهندسية، أنظمة أتمتة GoA4، ومعالجات إخفاقات السكك
 └── src/                    # (مستقبلاً) الأكواد والبرمجيات الخاصة بالمحاكاة اللوجستية
 ```
 
