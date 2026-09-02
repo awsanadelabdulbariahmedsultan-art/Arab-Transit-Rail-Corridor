@@ -1,7 +1,7 @@
 # 🛠️ Technical Specifications & Advanced AI Automation Systems (`technical_specs.md`)
 **Project:** Arab International Smart Railway Transit Corridor (Yemen - GCC - Egypt)  
 **Intellectual Property Owner:** Eng. Awsan Adel Abdulbari Ahmed Sultan (Yemen)  
-**Document Version:** 2026.1.0 (Updated Architectural Blueprint)
+**Document Version:** 2026.09.02 (Updated Architectural Blueprint)
 
 ---
 
@@ -160,7 +160,7 @@ Predictive maintenance uses edge computing at specialized checkpoints along the 
 # 🛠️ المواصفات الفنية وأنظمة الأتمتة المتقدمة بالذكاء الاصطناعي
 **المشروع:** ممر الترانزيت السككي العربي الدولي المشترك (اليمن - دول مجلس التعاون الخليجي - مصر)  
 **صاحب الملكية الفكرية والبرمجية:** المهندس/ أوسان عادل عبدالباري أحمد سلطان (اليمن)  
-**إصدار الوثيقة:** 2026.1.0
+**إصدار الوثيقة:** 2026.09.02
 
 ---
 
