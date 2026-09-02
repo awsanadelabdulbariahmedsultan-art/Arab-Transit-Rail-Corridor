@@ -32,7 +32,7 @@ To optimize the corridor's financial yield and establish it as a premier alterna
 
 ### 1. General Cargo and Express Container Line (The Commercial Backbone)
 * **Freight Characteristics:** Consumer electronics, automotive components, apparel, and perishable refrigerated goods moving from East Asia to European and North African markets.
-* **Logistical Feasibility:** Ocean carriers discharge high-yield containers at Yemeni deepwater ports (Nishtun, Mukalla, Aden). Autonomous freight trains then transport the goods directly to the Suez Canal in Egypt within **36 to 48 hours**. This bypasses the 4-day maritime detour around the Arabian Peninsula, providing a 100% secure, land-based alternative for global supply chains.
+* **Logistical Feasibility:** Ocean carriers discharge high-yield containers at Yemeni deepwater ports (Nishtun, Mukalla, Aden, Moka). Autonomous freight trains then transport the goods directly to the Suez Canal in Egypt within **36 to 48 hours**. This bypasses the 4-day maritime detour around the Arabian Peninsula, providing a 100% secure, land-based alternative for global supply chains.
 
 ### 2. Strategic LNG and Petrochemicals Corridor (Regional Energy Safeguard)
 * **Freight Characteristics:** Liquefied Natural Gas (LNG), primary petrochemicals, polymers, and refined petroleum products.
@@ -95,7 +95,7 @@ To cement the corridor’s long-term leadership across global trade, a multi-pha
 
 ### 1. خط الحاويات العامة والبضائع السريعة (العمود الفقري التجاري)
 * **طبيعة البضائع:** الإلكترونيات، قطع الغيار، الملابس، والمواد الغذائية سريعة التلف القادمة من شرق آسيا والمتجهة إلى أوروبا وشمال إفريقيا، أو العكس.
-* **الجدوى اللوجستية:** تفرغ السفن حمولتها في موانئ اليمن (نشطون، المكلا، عدن) لينقلها القطار إلى قناة السويس ومصر خلال **36 إلى 48 ساعة**. هذا يختصر 4 أيام كاملة من زمن الرحلة البحرية الدائرية حول شبه الجزيرة العربية ومضيق باب المندب، مما يوفر حلاً برياً آمناً ومستقراً بنسبة 100% لسلاسل الإمداد العالمية.
+* **الجدوى اللوجستية:** تفرغ السفن حمولتها في موانئ اليمن (نشطون، المكلا، عدن، المخا) لينقلها القطار إلى قناة السويس ومصر خلال **36 إلى 48 ساعة**. هذا يختصر 4 أيام كاملة من زمن الرحلة البحرية الدائرية حول شبه الجزيرة العربية ومضيق باب المندب، مما يوفر حلاً برياً آمناً ومستقراً بنسبة 100% لسلاسل الإمداد العالمية.
 
 ### 2. خط الغاز الطبيعي المسال والمشتقات النفطية (صمام أمان الطاقة الإقليمي)
 * **طبيعة البضائع:** الغاز المسال (LNG)، البتروكيماويات، والنفط الخام المكرر بين حقول الإنتاج في السعودية وعُمان ومصافي التكرير والتصدير اليمنية والمصرية.
