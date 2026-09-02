@@ -1,7 +1,7 @@
 # 🌐 Strategic, Economic, and Logistical Trade Corridor Study (`strategic_study.md`)
 **Project:** Arab International Smart Railway Transit Corridor (Yemen - GCC - Egypt)  
 **Intellectual Property Owner:** Eng. Awsan Adel Abdulbari Ahmed Sultan (Yemen)  
-**Document Version:** 2026.1.0
+**Document Version:** 2026.09.02
 
 ---
 
@@ -54,7 +54,7 @@ Upon completing its initial operational phase, the smart corridor is projected t
 # 🌐 الدراسة الاقتصادية واللوجستية الاستراتيجية للممر الدولي (`strategic_study.md`)
 **المشروع:** ممر الترانزيت السككي العربي الدولي المشترك (اليمن - دول مجلس التعاون الخليجي - مصر)  
 **صاحب الملكية الفكرية والبرمجية:** المهندس/ أوسان عادل عبدالباري أحمد سلطان (اليمن)  
-**إصدار الوثيقة:** 2026.1.0
+**إصدار الوثيقة:** 2026.09.02
 
 ---
 
