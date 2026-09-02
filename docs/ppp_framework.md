@@ -1,7 +1,7 @@
 # 💼 Public-Private Partnership (PPP) Financial & Investment Framework (`ppp_framework.md`)
 **Project:** Arab International Smart Railway Transit Corridor (Yemen - GCC - Egypt)  
 **Intellectual Property Owner:** Eng. Awsan Adel Abdulbari Ahmed Sultan (Yemen)  
-**Document Version:** 2026.1.0
+**Document Version:** 2026.09.02
 
 ---
 
@@ -65,8 +65,7 @@ This financial framework includes a binding, non-revocable clause agreed upon by
 # 💼 إطار الشراكة التمويلية والاستثمارية بين القطاعين العام والخاص (`ppp_framework.md`)
 **المشروع:** ممر الترانزيت السككي العربي الدولي المشترك (اليمن - دول مجلس التعاون الخليجي - مصر)  
 **صاحب الملكية الفكرية والبرمجية:** المهندس/ أوسان عادل عبدالباري أحمد سلطان (اليمن)  
-**إصدار الوثيقة:** 2026.1.0
-
+**إصدار الوثيقة:** 2026.09.02
 ---
 
 ## 1. الهيكل القانوني والتعاقدي للمشروع (PPP Model)
