@@ -1,7 +1,7 @@
 # 🤝 Quadripartite Memorandum of Understanding (MoU) for the International Railway Corridor (`mou_draft.md`)
 **Project:** Arab International Smart Railway Transit Corridor (Yemen - GCC - Egypt)  
 **Intellectual Property Owner:** Eng. Awsan Adel Abdulbari Ahmed Sultan (Yemen)  
-**Document Version:** 2026.1.0
+**Document Version:** 2026.09.02
 
 ---
 
@@ -68,7 +68,7 @@ The objective of this MoU is to establish the preliminary legislative and coordi
 # 🤝 مسودة مذكرة التفاهم الرباعية للممر السككي الدولي (`mou_draft.md`)
 **المشروع:** ممر الترانزيت السككي العربي الدولي المشترك (اليمن - دول مجلس التعاون الخليجي - مصر)  
 **صاحب الملكية الفكرية والبرمجية:** المهندس/ أوسان عادل عبدالباري أحمد سلطان (اليمن)  
-**إصدار الوثيقة:** 2026.1.0
+**إصدار الوثيقة:** 2026.09.02
 
 ---
 
