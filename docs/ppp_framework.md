@@ -26,7 +26,7 @@ A joint international venture named the **"Arab United Transit Railway Company"*
 * **Nature of Contribution:** Financing the heavy civil engineering, tunnel excavations, mountain viaduct bridges (in Sa'dah and the highlands), track-laying, and building the digital border dry ports to secure direct energy and logistical links from the GCC to the Suez Canal.
 
 ### 2.3 Technical Alliances & International Institutions (30% - Technical & Rolling Stock Supply)
-* **Target Partners:** Asian Infrastructure Investment Bank (AIIB), World Bank, and technology manufacturing giants (such as Siemens, Alstom, CRRC).
+* **Target Partners:** Asian Infrastructure Investment Bank (AIIB), World Bank, and technology manufacturing giants (such as Siemens, Alstom, CREC, CRRC).
 * **Nature of Contribution:** Funding the installation of AI signalling automation, Satcom LEO communication networks, supplying the hybrid hydrogen and electric distributed power locomotives, and providing international commercial credit risk mitigation.
 
 ---
@@ -89,7 +89,7 @@ This financial framework includes a binding, non-revocable clause agreed upon by
 * **طبيعة المساهمة:** تمويل عمليات الحفر، إنشاء الأنفاق والجسور المعلقة (في صعدة والمرتفعات)، ومد القضبان الحديدية وتأسيس الموانئ الجافة الرقمية، وذلك لضمان ربط خطوط الطاقة وسلاسل الإمداد الخليجية مباشرة بقناة السويس.
 
 ### 2.3 حصة التحالفات التكنولوجية والمؤسسات الدولية (30% - تمويل تقني وتشغيلي)
-* **الشركاء المستهدفون:** البنك الآسيوي للاستثمار في البنية التحتية (AIIB)، البنك الدولي، والتحالفات التقنية المصنعة (مثل Siemens، Alstom، CRRC).
+* **الشركاء المستهدفون:** البنك الآسيوي للاستثمار في البنية التحتية (AIIB)، البنك الدولي، والتحالفات التقنية المصنعة (مثل Siemens، Alstom، CREC، CRRC).
 * **طبيعة المساهمة:** تمويل تزويد الخط بأنظمة الذكاء الاصطناعي، شبكات اتصالات Satcom LEO، توريد القاطرات الهيدروجينية والكهربائية الموزعة، وضمان تغطية مخاطر الائتمان التجاري الدولي للمشروع.
 
 ---
