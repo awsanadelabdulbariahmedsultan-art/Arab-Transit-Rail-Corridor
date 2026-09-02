@@ -1,5 +1,14 @@
 # 🌐 Arab International Smart Railway Transit Corridor (Yemen - GCC - Egypt) 🛤️
 
+---
+
+<p align="center">
+  <img src="./Arab International Smart Railway Transit Corridor.png" alt="Arab International Smart Railway Transit Corridor" width="1254" height="1254"/>
+</p>
+
+
+---
+
 A comprehensive strategic, engineering, and logistics framework designed to connect Yemeni ports (Arabian Sea & Red Sea) directly to the Suez Canal through the Sultanate of Oman and the Kingdom of Saudi Arabia. The project integrates AI-driven infrastructure, satellite-managed dry ports, and automated predictive maintenance ecosystems.
 
 ---
@@ -84,6 +93,15 @@ The project is structurally designed under a joint **DBFOM** model (Design, Buil
 
 # 🌐 ممر الترانزيت السككي العربي الدولي المشترك 🛤️
 ### Arab International Smart Railway Transit Corridor (Yemen - GCC - Egypt)
+
+
+---
+
+<p align="center">
+  <img src="./Arab International Smart Railway Transit Corridor.png" alt="Arab International Smart Railway Transit Corridor" width="1254" height="1254"/>
+</p>
+
+---
 
 A strategic, engineering, and logistics framework designed to connect Yemeni ports (Arabian Sea & Red Sea) directly to the Suez Canal through the Sultanate of Oman and the Kingdom of Saudi Arabia, incorporating AI infrastructure, satellite-managed dry ports, and automated maintenance ecosystems.
 
