@@ -1,7 +1,7 @@
 # 🛠️ Smart Maintenance Hubs, Economic Corridors, and Future Expansion Plans (`maintenance_and_economic_corridors.md`)
 **Project:** Arab International Smart Railway Transit Corridor (Yemen - GCC - Egypt)  
 **Intellectual Property Owner:** Eng. Awsan Adel Abdulbari Ahmed Sultan (Yemen)  
-**Document Version:** 2026.1.0
+**Document Version:** 02.09.2026
 
 ---
 
@@ -64,7 +64,7 @@ To cement the corridor’s long-term leadership across global trade, a multi-pha
 # 🛠️ مراكز الصيانة الذكية، الممرات الاقتصادية، والخطط التوسعية المستقبلية (`maintenance_and_economic_corridors.md`)
 **المشروع:** ممر الترانزيت السككي العربي الدولي المشترك (اليمن - دول مجلس التعاون الخليجي - مصر)  
 **صاحب الملكية الفكرية والبرمجية:** المهندس/ أوسان عادل عبدالباري أحمد سلطان (اليمن)  
-**إصدار الوثيقة:** 2026.1.0
+**إصدار الوثيقة:** 02.09.2026
 
 ---
 
